@@ -4,3 +4,4 @@
 fix分支
 fix-c分支
 第一次标签，含附注的标签
+smartgit使用
